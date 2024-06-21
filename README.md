@@ -1,5 +1,7 @@
 # Task Manager
 
+![Demo](https://drive.google.com/file/d/1PipdrNCokpJuBV05eBgBCpa8GdvinJWr/view?usp=sharing)
+
 Task Manager is a web application that allows users to manage their tasks effectively. This project includes both frontend and backend components.
 
 ## Getting Started
